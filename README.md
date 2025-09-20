@@ -1,2 +1,2 @@
 # fakeglxgears
-A cheap fake glxgears html thingy i made!
+A low quality fake glxgears html thingy i made!
